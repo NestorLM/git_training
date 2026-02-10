@@ -2,6 +2,6 @@ Hola Mundo.
 
 Estamos aprendiendo GIT en el Taller Linux
 
-Julio 2025
+febrero 2026
 
 Ahora estoy modificando el archivo en un branch 
