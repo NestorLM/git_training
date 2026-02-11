@@ -4,4 +4,6 @@ Estamos aprendiendo GIT en el Taller Linux
 
 febrero 2026
 
+Dale Arturo , hace un commit
+
 Ahora estoy modificando el archivo en un branch 
